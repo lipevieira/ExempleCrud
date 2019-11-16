@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExempleCrud</string>
+    <string name="title_activity_cadastro_agenda">CadastroAgenda</string>
+</resources>
